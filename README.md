@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Объявление**.
 
@@ -10,13 +10,13 @@
   - `position-y` - позиция обложки по оси Y.
 - `date` - дата публикации объявления.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-announcement.git archetypes/announcement
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
